@@ -13,3 +13,6 @@ Scripts:
 - `Tsubasa Region.app/Contents/MacOS/Tsubasa Region`
 - `Tsubasa Window.app/Contents/MacOS/Tsubasa Window`
 - `tsubasa-bitbar.sh`
+
+## Disclaimer for Info.plist
+For each "app", is a Info.plist that was copied from an Electron app solely for being compatible with Thor. Nothing in the Info.plist is relevant other than the `CFBundleIconFile` key.
