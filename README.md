@@ -7,7 +7,7 @@ Custom "App" for launching Tsubasa through [gbammc/Thor](https://github.com/gbam
 - [matryer/bitbar](https://github.com/matryer/bitbar) * for the BitBar script
 
 ## Usage
-Replace the paths in each script with your relevant paths (Pictures directory, script location).  
+Replace the path in each script with your relevant paths.  
 Scripts:
 - `Tsubasa Full.app/Contents/MacOS/Tsubasa Full`
 - `Tsubasa Region.app/Contents/MacOS/Tsubasa Region`
