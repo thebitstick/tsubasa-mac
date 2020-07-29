@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
+#!/usr/local/bin/fish
 
-/usr/bin/env /usr/local/bin/fish /Users/me/Projects/Shell/tsubasa/tsubasa.fish &
+/Users/me/Projects/Shell/tsubasa/tsubasa.fish &
